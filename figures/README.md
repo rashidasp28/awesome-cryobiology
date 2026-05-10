@@ -1,68 +1,126 @@
 # Figures and Visual Learning
 
-This section is intended to become a visual learning hub for cryobiology and cryomicroscopy.
+A curated collection of original educational diagrams and visual learning resources for cryobiology, cryopreservation, cryomicroscopy, cryoengineering, and AI-assisted image analysis.
 
-## Suggested Figure Categories
+---
 
-### Ice Crystal Morphology
+# Purpose
 
-- Ice nucleation
-- Ice crystal growth
-- Ice recrystallization
-- Dendritic ice formation
-- Directional freezing
+The figures in this repository are designed to:
 
-### Cryoinjury Schematics
+- explain core cryobiology concepts,
+- support teaching and learning,
+- improve scientific communication,
+- and provide reusable open-science educational assets.
 
-- Intracellular ice formation
-- Osmotic injury
-- Membrane damage
-- Oxidative stress
-- Rewarming injury
+Where possible, figures are:
+- original,
+- reusable,
+- lightweight,
+- and GitHub-friendly.
 
-### Thermal Engineering
+---
 
-- Thermal gradients
-- Cryostage schematics
-- Cooling profiles
-- Warming profiles
-- Thermal mapping
+# Available Figures
 
-### Cryomicroscopy Examples
+## Cryoinjury Pathways
 
-- Brightfield cryomicroscopy
-- Fluorescence imaging
-- Multiphoton microscopy
-- Confocal cryomicroscopy
-- Thermal imaging
+File:
+- [cryoinjury-pathways.svg](cryoinjury-pathways.svg)
 
-### AI and Segmentation
+Topics covered:
+- extracellular ice formation
+- osmotic stress
+- intracellular ice formation
+- membrane damage
+- viability reduction
 
-- Cell segmentation examples
-- Ice crystal segmentation
-- Viability classification
-- Tracking workflows
-- Annotation examples
+---
 
-## Recommended Figure Standards
+## Slow Freezing vs Vitrification
 
-- High contrast
-- Clear labels
-- Reproducible color scales
-- Scale bars where appropriate
-- Metadata included when possible
+File:
+- [slow-freezing-vs-vitrification.svg](slow-freezing-vs-vitrification.svg)
 
-## Recommended Formats
+Topics covered:
+- cooling-rate differences
+- CPA concentration
+- ice formation
+- glass formation
+- devitrification risk
 
-- PNG
-- SVG
-- TIFF
-- PDF diagrams
+---
 
-## Suggested Future Additions
+## Ice Recrystallization
 
-- Annotated galleries
-- Before/after segmentation examples
-- Cryostage CAD renders
-- Thermal simulation outputs
-- Fluorophore compatibility diagrams
+File:
+- [ice-recrystallization.svg](ice-recrystallization.svg)
+
+Topics covered:
+- crystal growth
+- warming injury
+- storage injury
+- recrystallization dynamics
+
+---
+
+## Thermal Gradient Cryostage
+
+File:
+- [thermal-gradient-cryostage.svg](thermal-gradient-cryostage.svg)
+
+Topics covered:
+- directional freezing
+- thermal gradients
+- cryostage engineering
+- LN2 cooling systems
+- microscope integration
+
+---
+
+## AI-Assisted Cryomicroscopy Workflow
+
+File:
+- [ai-cryomicroscopy-workflow.svg](ai-cryomicroscopy-workflow.svg)
+
+Topics covered:
+- image acquisition
+- annotation
+- segmentation
+- model training
+- quantitative analysis
+
+---
+
+# Future Planned Figures
+
+Planned additions include:
+
+- multiphoton cryomicroscopy workflow
+- fluorescence viability workflow
+- cryostage thermal validation
+- CPA transport mechanisms
+- vitrification phase diagrams
+- ice nucleation schematics
+- thermal mapping systems
+- cryobiology timelines
+
+---
+
+# Usage and Reuse
+
+Unless otherwise stated:
+
+- figures may be reused for educational and non-commercial scientific purposes,
+- attribution to Awesome Cryobiology is appreciated,
+- modifications should be clearly indicated.
+
+---
+
+# Long-Term Goal
+
+The long-term goal is to build:
+
+- an open visual atlas for cryobiology,
+- a reusable educational figure ecosystem,
+- and a visual learning platform for low-temperature biology.
