@@ -2,27 +2,63 @@
 
 ## The Open Knowledge Hub for Cryobiology, Cryomicroscopy, Cryoengineering, and AI-Assisted Low-Temperature Biology
 
-Awesome Cryobiology is a curated open platform for researchers, students, engineers, microscopists, and computational scientists working across low-temperature biology.
+> Advancing open science, visual learning, reproducible workflows, and computational cryobiology.
+
+[Explore Cryomicroscopy](cryomicroscopy.md) • [Explore AI](ai.md) • [Explore Cryoengineering](cryoengineering.md) • [View Figures](figures.md)
+
+---
 
 !!! note "Core Mission"
     To connect fragmented cryobiology knowledge into one structured, visual, reproducible, and contributor-friendly open-science ecosystem.
 
 ---
 
-# Start Learning
+# Scientific Platform Areas
 
-Recommended pathway:
+## Cryomicroscopy
 
-```text
-Beginner → Cryoinjury → Cryomicroscopy → AI Analysis → Cryoengineering
-```
+Topics include:
 
-Quick links:
+- fluorescence imaging,
+- confocal microscopy,
+- multiphoton microscopy,
+- thermal-gradient imaging,
+- and cryogenic visualization.
 
-- Start Here
-- Research Roadmaps
-- Glossary
-- Troubleshooting Guide
+---
+
+## AI and Computational Cryobiology
+
+Topics include:
+
+- segmentation,
+- viability classification,
+- benchmark datasets,
+- and reproducible image-analysis workflows.
+
+---
+
+## Cryoengineering
+
+Topics include:
+
+- cryostages,
+- LN2 systems,
+- thermal gradients,
+- microscope integration,
+- and anti-frost systems.
+
+---
+
+## Visual Learning and Figures
+
+Topics include:
+
+- cryoinjury pathways,
+- vitrification workflows,
+- cryostage diagrams,
+- multiphoton workflows,
+- and fluorescence imaging pipelines.
 
 ---
 
@@ -32,61 +68,25 @@ Quick links:
 
 ![Cryoinjury Pathways](assets/figures/cryoinjury-pathways.svg)
 
-Explore all diagrams:
+---
 
-- Figures and Visual Learning
+## Slow Freezing vs Vitrification
+
+![Slow Freezing vs Vitrification](assets/figures/slow-freezing-vs-vitrification.svg)
 
 ---
 
-# Explore the Platform
+## Thermal Gradient Cryostage
 
-## Learn Cryobiology Fundamentals
-
-Topics include:
-
-- cryoinjury,
-- vitrification,
-- devitrification,
-- water and ice physics,
-- cooling and warming rates,
-- and thermal behavior.
+![Thermal Gradient Cryostage](assets/figures/thermal-gradient-cryostage.svg)
 
 ---
 
-## Explore Cryomicroscopy
+# Learning Pathway
 
-Topics include:
-
-- brightfield cryomicroscopy,
-- fluorescence imaging,
-- confocal microscopy,
-- multiphoton microscopy,
-- thermal-gradient imaging,
-- and AI-assisted analysis.
-
----
-
-## Explore AI and Computational Cryobiology
-
-Topics include:
-
-- cell segmentation,
-- viability classification,
-- benchmark datasets,
-- and reproducible pipelines.
-
----
-
-## Explore Cryoengineering
-
-Topics include:
-
-- cryostages,
-- LN2 systems,
-- thermal gradients,
-- thermal validation,
-- microscope integration,
-- and anti-frost systems.
+```text
+Beginner → Cryoinjury → Cryomicroscopy → AI Analysis → Cryoengineering
+```
 
 ---
 
@@ -97,5 +97,20 @@ Awesome Cryobiology aims to evolve into:
 - an open visual atlas for cryobiology,
 - a reproducibility platform for cryomicroscopy,
 - a benchmark ecosystem for AI-assisted cryobiology,
-- a knowledge base for cryoengineering,
 - and a global open-science resource for low-temperature biology.
+
+---
+
+# Contributing
+
+Contributions are welcome.
+
+Potential contribution areas include:
+
+- datasets,
+- microscopy workflows,
+- AI models,
+- cryostage designs,
+- protocols,
+- educational diagrams,
+- and review resources.
