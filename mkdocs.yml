@@ -4,12 +4,8 @@ site_url: https://rashidasp28.github.io/awesome-cryobiology/
 repo_url: https://github.com/rashidasp28/awesome-cryobiology
 repo_name: awesome-cryobiology
 
-docs_dir: .
-
-exclude_docs: |
-  .github/
-  site/
-
+docs_dir: website
+site_dir: site
 
 theme:
   name: material
@@ -22,17 +18,11 @@ theme:
     - content.code.copy
 
 nav:
-  - Home: website/index.md
-  - Start Here: docs/start-here.md
-  - Cryomicroscopy: website/cryomicroscopy.md
-  - AI and Computational Cryobiology: website/ai.md
-  - Cryoengineering: website/cryoengineering.md
-  - Figures and Visual Learning: website/figures.md
-  - Landmark Papers: papers/landmark-papers.md
-  - Review Papers: papers/review-papers.md
-  - Protocols: protocols/protocol-template.md
-  - Reporting Standards: docs/reporting-standards.md
-  - Troubleshooting: docs/troubleshooting.md
+  - Home: index.md
+  - Cryomicroscopy: cryomicroscopy.md
+  - AI and Computational Cryobiology: ai.md
+  - Cryoengineering: cryoengineering.md
+  - Figures and Visual Learning: figures.md
 
 markdown_extensions:
   - admonition
