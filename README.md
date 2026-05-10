@@ -51,6 +51,16 @@ Quick access:
 
 Educational diagrams and visual learning resources:
 
+## Cryoinjury Pathways
+
+![Cryoinjury Pathways](figures/cryoinjury-pathways.svg)
+
+## Slow Freezing vs Vitrification
+
+![Slow Freezing vs Vitrification](figures/slow-freezing-vs-vitrification.svg)
+
+Covered topics:
+
 - Cryoinjury pathways
 - Slow freezing vs vitrification
 - Ice recrystallization
