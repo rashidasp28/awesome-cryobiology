@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="700" y="50" font-size="32" text-anchor="middle" font-family="Arial">AI-Assisted Cryomicroscopy Workflow</text>
+
+<rect x="80" y="220" width="200" height="100" fill="none" stroke="black" stroke-width="3"/>
+<text x="180" y="280" font-size="22" text-anchor="middle" font-family="Arial">Image Acquisition</text>
+
+<rect x="360" y="220" width="200" height="100" fill="none" stroke="black" stroke-width="3"/>
+<text x="460" y="280" font-size="22" text-anchor="middle" font-family="Arial">Annotation</text>
+
+<rect x="640" y="220" width="200" height="100" fill="none" stroke="black" stroke-width="3"/>
+<text x="740" y="280" font-size="22" text-anchor="middle" font-family="Arial">Model Training</text>
+
+<rect x="920" y="220" width="200" height="100" fill="none" stroke="black" stroke-width="3"/>
+<text x="1020" y="280" font-size="22" text-anchor="middle" font-family="Arial">Segmentation</text>
+
+<rect x="1200" y="220" width="150" height="100" fill="none" stroke="black" stroke-width="3"/>
+<text x="1275" y="280" font-size="20" text-anchor="middle" font-family="Arial">Quantification</text>
+
+<line x1="280" y1="270" x2="360" y2="270" stroke="black" stroke-width="3"/>
+<line x1="560" y1="270" x2="640" y2="270" stroke="black" stroke-width="3"/>
+<line x1="840" y1="270" x2="920" y2="270" stroke="black" stroke-width="3"/>
+<line x1="1120" y1="270" x2="1200" y2="270" stroke="black" stroke-width="3"/>
+</svg>
