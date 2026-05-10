@@ -1,0 +1,34 @@
+site_name: Awesome Cryobiology
+site_description: Open knowledge hub for cryobiology, cryomicroscopy, cryoengineering, and AI-assisted low-temperature biology.
+site_url: https://rashidasp28.github.io/awesome-cryobiology/
+repo_url: https://github.com/rashidasp28/awesome-cryobiology
+repo_name: awesome-cryobiology
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+nav:
+  - Home: website/index.md
+  - Start Here: docs/start-here.md
+  - Cryomicroscopy: website/cryomicroscopy.md
+  - AI and Computational Cryobiology: website/ai.md
+  - Cryoengineering: website/cryoengineering.md
+  - Figures and Visual Learning: website/figures.md
+  - Landmark Papers: papers/landmark-papers.md
+  - Review Papers: papers/review-papers.md
+  - Protocols: protocols/protocol-template.md
+  - Reporting Standards: docs/reporting-standards.md
+  - Troubleshooting: docs/troubleshooting.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
