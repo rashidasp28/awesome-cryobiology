@@ -59,6 +59,18 @@ Educational diagrams and visual learning resources:
 
 ![Slow Freezing vs Vitrification](figures/slow-freezing-vs-vitrification.svg)
 
+## Ice Recrystallization
+
+![Ice Recrystallization](figures/ice-recrystallization.svg)
+
+## Thermal Gradient Cryostage
+
+![Thermal Gradient Cryostage](figures/thermal-gradient-cryostage.svg)
+
+## AI-Assisted Cryomicroscopy Workflow
+
+![AI-Assisted Cryomicroscopy Workflow](figures/ai-cryomicroscopy-workflow.svg)
+
 Covered topics:
 
 - Cryoinjury pathways
