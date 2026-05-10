@@ -19,10 +19,10 @@ Beginner → Cryoinjury → Cryomicroscopy → AI Analysis → Cryoengineering
 
 Quick links:
 
-- [Start Here](../docs/start-here.md)
-- [Research Roadmaps](../docs/research-roadmaps.md)
-- [Glossary](../docs/glossary.md)
-- [Troubleshooting Guide](../docs/troubleshooting.md)
+- Start Here
+- Research Roadmaps
+- Glossary
+- Troubleshooting Guide
 
 ---
 
@@ -30,23 +30,11 @@ Quick links:
 
 ## Cryoinjury Pathways
 
-![Cryoinjury Pathways](../figures/cryoinjury-pathways.svg)
-
-## Slow Freezing vs Vitrification
-
-![Slow Freezing vs Vitrification](../figures/slow-freezing-vs-vitrification.svg)
-
-## Thermal Gradient Cryostage
-
-![Thermal Gradient Cryostage](../figures/thermal-gradient-cryostage.svg)
-
-## AI-Assisted Cryomicroscopy Workflow
-
-![AI-Assisted Cryomicroscopy Workflow](../figures/ai-cryomicroscopy-workflow.svg)
+![Cryoinjury Pathways](assets/figures/cryoinjury-pathways.svg)
 
 Explore all diagrams:
 
-- [Figures and Visual Learning](figures.md)
+- Figures and Visual Learning
 
 ---
 
@@ -63,12 +51,6 @@ Topics include:
 - cooling and warming rates,
 - and thermal behavior.
 
-Recommended resources:
-
-- [Landmark Papers](../papers/landmark-papers.md)
-- [Review Papers](../papers/review-papers.md)
-- [Reporting Standards](../docs/reporting-standards.md)
-
 ---
 
 ## Explore Cryomicroscopy
@@ -82,10 +64,6 @@ Topics include:
 - thermal-gradient imaging,
 - and AI-assisted analysis.
 
-Recommended resource:
-
-- [Cryomicroscopy Workflows](cryomicroscopy.md)
-
 ---
 
 ## Explore AI and Computational Cryobiology
@@ -93,17 +71,9 @@ Recommended resource:
 Topics include:
 
 - cell segmentation,
-- ice crystal segmentation,
 - viability classification,
-- tracking,
 - benchmark datasets,
 - and reproducible pipelines.
-
-Recommended resources:
-
-- [AI and Computational Cryobiology](ai.md)
-- [Dataset Template](../datasets/dataset-template.md)
-- [AI Model Card Template](../software/model-card-template.md)
 
 ---
 
@@ -117,73 +87,6 @@ Topics include:
 - thermal validation,
 - microscope integration,
 - and anti-frost systems.
-
-Recommended resource:
-
-- [Cryoengineering](cryoengineering.md)
-
----
-
-# Featured Tools
-
-## Bioimage Analysis
-
-- Fiji/ImageJ
-- napari
-- ilastik
-- Cellpose
-- StarDist
-- DeepCell
-- QuPath
-
-## Computational Tools
-
-- scikit-image
-- OpenCV
-- PyTorch workflows
-
-## Cryo and Imaging Platforms
-
-- CryoSPARC
-- RELION
-- OMERO
-- OME-Zarr
-
----
-
-# Featured Literature
-
-Start with:
-
-- Mazur's foundational work on freezing injury and intracellular ice formation.
-- Fahy's landmark work on vitrification.
-- Modern reviews on devitrification, ice recrystallization, organ preservation, cryomicroscopy, and stem cell cryopreservation.
-
-Browse:
-
-- [Landmark Papers](../papers/landmark-papers.md)
-- [Review Papers](../papers/review-papers.md)
-
----
-
-# Contribute
-
-You can contribute:
-
-- papers,
-- review articles,
-- protocols,
-- datasets,
-- software tools,
-- AI workflows,
-- open hardware,
-- educational diagrams,
-- and troubleshooting notes.
-
-Before contributing, read:
-
-- [Curation Criteria](../docs/curation-criteria.md)
-- [Reporting Standards](../docs/reporting-standards.md)
 
 ---
 
