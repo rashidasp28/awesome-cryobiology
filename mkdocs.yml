@@ -4,6 +4,13 @@ site_url: https://rashidasp28.github.io/awesome-cryobiology/
 repo_url: https://github.com/rashidasp28/awesome-cryobiology
 repo_name: awesome-cryobiology
 
+docs_dir: .
+
+exclude_docs: |
+  .github/
+  site/
+
+
 theme:
   name: material
   features:
