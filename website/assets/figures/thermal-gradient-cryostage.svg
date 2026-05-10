@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650">
+<rect width="100%" height="100%" fill="white"/>
+<text x="600" y="50" font-size="32" text-anchor="middle" font-family="Arial">Thermal Gradient Cryostage</text>
+<rect x="120" y="220" width="220" height="140" fill="none" stroke="black" stroke-width="3"/>
+<text x="230" y="295" font-size="26" text-anchor="middle" font-family="Arial">Cold Block</text>
+<rect x="860" y="220" width="220" height="140" fill="none" stroke="black" stroke-width="3"/>
+<text x="970" y="295" font-size="26" text-anchor="middle" font-family="Arial">Warm Block</text>
+<rect x="340" y="250" width="520" height="80" fill="none" stroke="black" stroke-width="2"/>
+<text x="600" y="300" font-size="24" text-anchor="middle" font-family="Arial">Sample Channel</text>
+<line x1="230" y1="180" x2="230" y2="220" stroke="black" stroke-width="3"/>
+<text x="230" y="160" font-size="22" text-anchor="middle" font-family="Arial">LN₂ Cooling</text>
+<line x1="970" y1="180" x2="970" y2="220" stroke="black" stroke-width="3"/>
+<text x="970" y="160" font-size="22" text-anchor="middle" font-family="Arial">Heater</text>
+<line x1="600" y1="100" x2="600" y2="250" stroke="black" stroke-width="3"/>
+<text x="600" y="90" font-size="22" text-anchor="middle" font-family="Arial">Microscope Objective</text>
+<text x="600" y="520" font-size="24" text-anchor="middle" font-family="Arial">Controlled thermal gradient enables directional freezing.</text>
+</svg>
