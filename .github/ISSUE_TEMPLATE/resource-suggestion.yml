@@ -1,0 +1,74 @@
+name: Suggest a resource
+description: Propose a paper, dataset, protocol, tool, workflow, or educational resource for curation
+title: "[Resource]: "
+body:
+  - type: dropdown
+    id: resource_type
+    attributes:
+      label: Resource type
+      options:
+        - Research paper
+        - Review article
+        - Protocol
+        - Dataset
+        - Software tool
+        - AI model
+        - Workflow guide
+        - Open hardware
+        - Figure or educational resource
+        - Conference or society resource
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Resource title
+      placeholder: Full title or project name
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Permanent link
+      description: Prefer a DOI, official project page, archival repository, or stable documentation URL.
+      placeholder: https://doi.org/... or https://...
+    validations:
+      required: true
+
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Cryobiology relevance
+      description: Explain what the resource contributes and who would benefit from it.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Scientific basis
+      description: For scientific claims, provide the primary source, validation information, or limitations.
+    validations:
+      required: true
+
+  - type: input
+    id: access
+    attributes:
+      label: Access and licence
+      description: State whether it is open access and identify the licence when known.
+      placeholder: Open access, CC BY 4.0
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Curation checks
+      options:
+        - label: I checked the repository for duplicate entries.
+          required: true
+        - label: I confirmed that the link works.
+          required: true
+        - label: I disclosed any affiliation or conflict of interest related to this resource.
+          required: true
