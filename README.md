@@ -128,6 +128,7 @@ Focus areas:
 
 Key resources:
 
+- [AI and Computational Cryobiology Guide](website/ai.md)
 - [Dataset Template](datasets/dataset-template.md)
 - [AI Model Card Template](software/model-card-template.md)
 
