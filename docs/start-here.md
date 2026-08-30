@@ -15,6 +15,8 @@ This page is designed for:
 
 ## Step 1 — Learn the Fundamentals
 
+Begin with the [Top 10 Beginner Resources](top-10-beginner-resources.md), then use the topic guides below to go deeper.
+
 Focus on:
 - water and ice physics,
 - phase transitions,
