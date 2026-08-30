@@ -40,6 +40,7 @@ Fundamentals → Cryoinjury → Cryomicroscopy → AI Analysis → Cryoengineeri
 Quick access:
 
 - [Beginner Guide](docs/start-here.md)
+- [Top 10 Beginner Resources](docs/top-10-beginner-resources.md)
 - [Research Roadmaps](docs/research-roadmaps.md)
 - [Glossary](docs/glossary.md)
 - [Cryomicroscopy Workflows](docs/cryomicroscopy-workflows.md)
