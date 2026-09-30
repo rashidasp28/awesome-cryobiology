@@ -1,44 +1,75 @@
-# Pull Request Checklist
+# Resource contribution
 
-Thank you for contributing to Awesome Cryobiology.
+## Summary
 
-Please review the checklist before submitting your pull request.
+Describe the proposed addition or change and the repository section where it
+belongs.
 
-## Resource Quality
+## Resource details
 
-- [ ] The resource is relevant to cryobiology, cryopreservation, cryomicroscopy, cryoengineering, or low-temperature biology.
-- [ ] The link works correctly.
-- [ ] The description is concise and informative.
-- [ ] Duplicate resources were checked and avoided.
+- Canonical title:
+- Authors or maintainers:
+- Stable identifier or URL:
+- Resource type:
+- Proposed repository section:
 
-## Scientific Quality
+## Evidence classification
 
-- [ ] Sources are scientifically credible.
-- [ ] Metadata or context is included where appropriate.
-- [ ] Open-access or reusable licensing was checked where applicable.
+Select the least mature classification that fairly describes the highlighted
+claim:
+
+- [ ] Established
+- [ ] Validated
+- [ ] Reproducible
+- [ ] Preliminary
+- [ ] Conceptual
+
+Explain the classification and identify the supporting evidence:
+
+## Independent checks
+
+- [ ] I opened every added or changed link.
+- [ ] I checked for duplicate entries and overlapping pull requests.
+- [ ] I confirmed that the proposed description matches the source.
+- [ ] I distinguished peer-reviewed work from preprints where applicable.
+- [ ] I distinguished measured data from simulations, illustrations, or
+      predictions where applicable.
+- [ ] I checked the relevant resource-specific criteria in
+      [docs/curation-criteria.md](../docs/curation-criteria.md).
+
+List what was independently checked, including software tests, dataset
+provenance, protocol details, hardware validation, or publication records:
+
+## Access, licensing, and provenance
+
+- Access status:
+- Licence or reuse terms:
+- Provenance or original source:
+- [ ] No copyrighted material was copied without permission.
+- [ ] No credentials, private data, personal health information, or precise
+      household locations are included.
+
+## Limitations and conflicts
+
+State important validation boundaries, known failure modes, access
+restrictions, or reasons the resource may need cautious wording:
+
+Disclose any contributor affiliation, authorship, financial interest, or other
+conflict. Write `None known` when applicable:
+
+## Reassessment
+
+State what should trigger a future review, such as a new release, independent
+validation, correction, retraction, broken link, licensing change, or
+replacement resource:
 
 ## Formatting
 
-- [ ] Formatting follows repository structure.
-- [ ] Markdown formatting renders correctly.
-- [ ] Headings and bullet styles are consistent.
+- [ ] Markdown renders correctly.
+- [ ] Headings and list formatting match the surrounding section.
+- [ ] The description is concise, factual, and free of promotional claims.
+- [ ] The pull request contains one coherent topic.
 
-## Contribution Type
+## Additional notes
 
-Select applicable categories:
-
-- [ ] Paper
-- [ ] Review
-- [ ] Protocol
-- [ ] Dataset
-- [ ] Software Tool
-- [ ] AI Model
-- [ ] Workflow Guide
-- [ ] Open Hardware
-- [ ] Figure or Diagram
-- [ ] Educational Resource
-- [ ] Conference or Society Resource
-
-## Additional Notes
-
-Provide any additional details, citations, or context here.
+Add any reviewer questions or unresolved uncertainty here.
