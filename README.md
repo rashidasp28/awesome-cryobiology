@@ -258,3 +258,10 @@ Planned future directions:
 - AI evaluation leaderboards
 - Cryostage engineering ecosystem
 - Educational course modules
+- Open cryomicroscopy standards
+
+---
+
+# License
+
+This project is licensed under the MIT License unless otherwise stated.
