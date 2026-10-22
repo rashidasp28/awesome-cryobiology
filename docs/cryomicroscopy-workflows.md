@@ -233,8 +233,8 @@ Ask:
 ## Related repository resources
 
 - [Cryopreservation fundamentals](cryopreservation-fundamentals.md)
-- [Cryoinjury](cryoinjury.md)
-- [Cryostage engineering](cryostage-engineering.md)
+- [Cryoinjury pathways](../figures/README.md)
+- [Cryostage engineering](../website/cryoengineering.md)
 - [Reporting standards](reporting-standards.md)
 - [Troubleshooting guide](troubleshooting.md)
 - [AI and computational cryobiology guide](../website/ai.md)

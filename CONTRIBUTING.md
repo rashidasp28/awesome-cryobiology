@@ -81,6 +81,10 @@ software, AI models, hardware, figures, and educational material.
 5. Explain any uncertainty that a reviewer should resolve.
 6. Respond to review feedback with sources or a narrower description.
 
+Run `python scripts/check_local_links.py` before submitting documentation
+changes. The check is dependency-free and validates repository-local Markdown
+targets without making network requests.
+
 One pull request should cover one coherent topic. Large link collections may
 be easier to review as smaller, evidence-focused submissions.
 
