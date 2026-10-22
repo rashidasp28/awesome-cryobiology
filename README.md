@@ -91,7 +91,7 @@ See:
 ## Scientific Foundations
 
 - [Fundamentals](docs/cryopreservation-fundamentals.md)
-- [Cryoinjury](docs/cryoinjury.md)
+- [Cryoinjury pathways](figures/README.md)
 - [Ice Recrystallization](docs/ice-recrystallization.md)
 - [Devitrification](docs/devitrification.md)
 - [Reporting Standards](docs/reporting-standards.md)
@@ -149,7 +149,7 @@ Focus areas:
 Key resources:
 
 - [Open Hardware](hardware/README.md)
-- [Cryostage Engineering](docs/cryostage-engineering.md)
+- [Cryostage Engineering](website/cryoengineering.md)
 
 ---
 
@@ -258,10 +258,3 @@ Planned future directions:
 - AI evaluation leaderboards
 - Cryostage engineering ecosystem
 - Educational course modules
-- Open cryomicroscopy standards
-
----
-
-# License
-
-This project is licensed under the MIT License unless otherwise stated.
